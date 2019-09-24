@@ -1,0 +1,11 @@
+{
+  "name": "javascript-helper",
+  "version": "1.0.0",
+  "description": "My collection of useful helpers of JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "secf4ult <secf4ult@outlook.com> (secf4ult.github.io)",
+  "license": "MIT"
+}
